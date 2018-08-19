@@ -39,4 +39,8 @@
 10. 最好的生活方式来源于自己。
 
     The best life style comes from self-organizing individuals.
+    
+11. 缺乏计划性的敏捷和缺乏敏捷性的计划都是低效率的。
+
+    Agility lacking of plan and plan lacking of agility are both inefficient.
 
