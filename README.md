@@ -1,10 +1,52 @@
 # 敏捷生活宣言
-> Edit By alo1719, 2018.06.01
+## Manifesto for Agile Living Style
+> Edit By alo1719, June 1st 2018
+>
+> Updated in Seattle, November 3rd 2018 
 
-Manifesto for Agile Living Style
+于敏捷开发宣言获得灵感，敏捷精神促进沟通，提高效率，何不将敏捷精神用于生活？敏捷生活方式欢迎变化，提倡定期反思，追求可持续，主张面对面沟通，崇尚简单，长期保持会对生活方式和生活习惯有着明显的改善。
 
-于敏捷开发宣言获得灵感，敏捷精神促进沟通，提高效率，何不将敏捷精神用于生活？
+1. 我们最重要的目标，是通过持续不断地尽早调整行为习惯使自己对生活满意。
 
-或许能挽救一部分程序员过于木讷，不善为人处世的性格。
+   Our highest priority is to satisfy ourselves through early and continuous change of living habits.
 
-[详细内容见此处](https://github.com/alo1719/agile-life-manifesto/blob/master/ManifestoForAgileLivingStyle.md)
+2. 欣然面对生活中或好或坏的变化，即使在低谷期也一样。
+
+   Welcome changes in life, no matter whether they're good or not.
+
+3. 经常性地反思如何能够优化生活，并依此调整自身的行为表现。相隔几星期或一两个月，倾向于采取较短的周期。
+
+   Reflect on how to better life frequently and adjust habits accordingly from a couple of weeks to several months , with a preference to a shorter timescale.
+
+4. 激发自己的斗志，信任自己，从而达成目标。
+
+   Make ourselves motivated and trust ourselves to achieve goals.
+
+5. 不论何时，面对面的交谈是最富有效果和效率的信息传递方式。
+
+   The most efficient and effective method of of conveying information is face-to-face conversation.
+
+6. 可见的实物是进度的首要度量标准。
+
+   Visible objects are the primary measure of progress.
+
+7. 敏捷生活倡导可持续生活。敏捷生活者应该能够长期保持稳定的生活。
+
+   Agile living style promotes sustainable living style. An "agile liver" should be able to maintain a constant and stable living style.
+
+8. 不断地关注优秀的个体和技能能够增强敏捷生活的能力。
+
+   Continuous attention to excellent individuals and techniques enhances agility.
+
+9. 以简洁为本，它是极力减少不必要工作的艺术。
+
+   Simplicity is essential because it's an art of minimizing unnecessary work.
+
+10. 最好的生活方式来源于自我管理。
+
+    The best life style comes from self-organizing individuals.
+
+11. 将计划与敏捷性结合，缺乏计划性的敏捷和缺乏敏捷性的计划都是低效率的。
+
+    Combine plans with agility, because agility lacking of plan and plans lacking of agility are both inefficient.
+
