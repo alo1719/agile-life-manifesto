@@ -6,21 +6,25 @@
 
 于敏捷开发宣言获得灵感，敏捷精神促进沟通，提高效率，何不将敏捷精神用于生活？敏捷生活方式欢迎变化，提倡定期反思，追求可持续，主张面对面沟通，崇尚简单，长期保持会对生活方式和生活习惯有着明显的改善。
 
+0. 一切敏捷都来自于适应变化而不是遵从计划。
+
+   All agility comes from responding to changes rather than following a plan.
+
 1. 我们最重要的目标，是通过持续不断地尽早调整行为习惯使自己对生活满意。
 
    Our highest priority is to satisfy ourselves through early and continuous change of living habits.
 
 2. 欣然面对生活中或好或坏的变化，即使在低谷期也一样。
 
-   Welcome changes in life, no matter whether they're good or not.
+   Welcome changes in life, even when we are under bad mood. No matter whether changes are "good" or not. 
 
-3. 经常性地反思如何能够优化生活，并依此调整自身的行为表现。相隔几星期或一两个月，倾向于采取较短的周期。
+3. 经常性地反思如何能够优化生活，并依此调整自身的行为习惯。相隔几星期或一两个月，倾向于采取较短的周期。
 
    Reflect on how to better life frequently and adjust habits accordingly from a couple of weeks to several months , with a preference to a shorter timescale.
 
-4. 激发自己的斗志，信任自己，从而达成目标。
+4. 激发自己的斗志，给自己创造需要的环境，并信任自己，从而达成目标。
 
-   Make ourselves motivated and trust ourselves to achieve goals.
+   Make ourselves motivated, give ourselves environment we need, and trust ourselves to achieve goals.
 
 5. 不论何时，面对面的交谈是最富有效果和效率的信息传递方式。
 
@@ -46,7 +50,7 @@
 
     The best life style comes from self-organizing individuals.
 
-11. 将计划与敏捷性结合，缺乏计划性的敏捷和缺乏敏捷性的计划都是低效率的。
+保持敏捷生活的重点在于使得自己到底每一个决策都是基于敏捷的价值和原则的。
 
-    Combine plans with agility, because agility lacking of plan and plans lacking of agility are both inefficient.
+The key idea of living agilely is to make each decision based on the principles and values described above.
 
