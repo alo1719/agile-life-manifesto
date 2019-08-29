@@ -1,14 +1,8 @@
 # 敏捷生活宣言
+
 ## Manifesto for Agile Living Style
-> Edit By alo1719, June 1st 2018
->
-> Updated in Seattle, November 3rd 2018 
 
-于敏捷开发宣言获得灵感，敏捷精神促进沟通，提高效率，何不将敏捷精神用于生活？敏捷生活方式欢迎变化，提倡定期反思，追求可持续，主张面对面沟通，崇尚简单，长期保持会对生活方式和生活习惯有着明显的改善。
-
-0. 一切敏捷都来自于适应变化而不是遵从计划。
-
-   All agility comes from responding to changes rather than following a plan.
+敏捷生活精神欢迎变化、提倡定期反思、追求可持续；主张面对面沟通、崇尚简单，有助于长期保持乐观高效的生活状态。
 
 1. 我们最重要的目标，是通过持续不断地尽早调整行为习惯使自己对生活满意。
 
@@ -16,7 +10,7 @@
 
 2. 欣然面对生活中或好或坏的变化，即使在低谷期也一样。
 
-   Welcome changes in life, even when we are under bad mood. No matter whether changes are "good" or not. 
+   Welcome changes in life, even when we are under bad mood. No matter whether changes are "good" or not.
 
 3. 经常性地反思如何能够优化生活，并依此调整自身的行为习惯。相隔几星期或一两个月，倾向于采取较短的周期。
 
@@ -53,4 +47,3 @@
 保持敏捷生活的重点在于使得自己到底每一个决策都是基于敏捷的价值和原则的。
 
 The key idea of living agilely is to make each decision based on the principles and values described above.
-
