@@ -22,7 +22,7 @@
 
 5. 不论何时，面对面的交谈是最富有效果和效率的信息传递方式。
 
-   The most efficient and effective method of of conveying information is face-to-face conversation.
+   The most efficient and effective method of conveying information is face-to-face conversation.
 
 6. 可见的实物是进度的首要度量标准。
 
