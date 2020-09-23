@@ -4,9 +4,9 @@
 
 敏捷生活精神欢迎变化、提倡定期反思、追求可持续；主张面对面沟通、崇尚简单，有助于长期保持乐观高效的生活状态。
 
-1. 我们最重要的目标，是通过持续不断地尽早调整行为习惯使自己对生活满意。
+1. 我们最重要的目标，是通过持续不断地尽早做有价值的事使自己满意。
 
-   Our highest priority is to satisfy ourselves through early and continuous change of living habits.
+   Our highest priority is to satisfy ourselves through continuously doing something worthwhile as soon as possible.
 
 2. 欣然面对生活中或好或坏的变化，即使在低谷期也一样。
 
@@ -28,9 +28,9 @@
 
    Visible objects are the primary measure of progress.
 
-7. 敏捷生活倡导可持续生活。敏捷生活者应该能够长期保持稳定的生活。
+7. 敏捷生活倡导可持续生活。敏捷生活者应该能够保持稳定的生活节奏。
 
-   Agile living style promotes sustainable living style. An "agile liver" should be able to maintain a constant and stable living style.
+   Agile living style promotes sustainable living style. An "agile liver" should be able to maintain a constant and stable living pace.
 
 8. 不断地关注优秀的个体和技能能够增强敏捷生活的能力。
 
@@ -38,11 +38,11 @@
 
 9. 以简洁为本，它是极力减少不必要工作的艺术。
 
-   Simplicity is essential because it's an art of minimizing unnecessary work.
+   Simplicity is essential because it's an art of maximizing the amout of work not done.
 
-10. 最好的生活方式来源于自我管理。
+10. 敏捷不是没有计划的即兴表演，而是相比于遵循计划更看重适应变化。敏捷的计划会为可预见的变化预留空间。
 
-    The best life style comes from self-organizing individuals.
+    Agile is not improvisation without a plan, but rather a greater emphasis on adapting to changes than following a plan. An agile plan leaves room for foreseeable changes.
 
 保持敏捷生活的重点在于使得自己到底每一个决策都是基于敏捷的价值和原则的。
 
