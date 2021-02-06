@@ -45,3 +45,7 @@ Mnemonics: The first three are the principles of agile living style; the middle 
 保持敏捷生活的重点在于使得自己到底每一个决策都是基于敏捷的价值和原则的。
 
 The key idea of living agilely is to make each decision based on the principles and values described above.
+
+最佳实践：当难以判断、或没有足够时间判断一件事是否符合敏捷原则时，想象40岁时的自己（或20年后的自己）会不会为做了或没做这件事感到后悔。这条简单的原则能够快速地判断一件事的价值。
+
+Best practice: When difficult or having no enough time to judge whether something is in the line with agile principles, imagine yourself at the age of 40 (or 20 years from now) whether you regret doing or not doing it. This simple practice is a quick way to determine the value of something.
