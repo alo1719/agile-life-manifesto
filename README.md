@@ -42,7 +42,7 @@ Mnemonics: The first three are the principles of agile living style; the middle 
 
    The most efficient and effective method of conveying information is face-to-face conversation.
 
-保持敏捷生活的重点在于使得自己到底每一个决策都是基于敏捷的价值和原则的。
+保持敏捷生活的重点在于使得自己每一个决策都是基于敏捷的价值和原则的。
 
 The key idea of living agilely is to make each decision based on the principles and values described above.
 
