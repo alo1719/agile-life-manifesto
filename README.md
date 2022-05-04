@@ -2,9 +2,9 @@
 
 ## Manifesto for Agile Living Style
 
-记忆法：前三个是敏捷生活的原则；中间三个是敏捷生活的态度：追求变化、简洁、可持续；最后三个是敏捷生活的行为：关注优秀事物、定期反思、面对面交流。
+记忆法：前三个是敏捷生活的原则；中间三个是敏捷生活的态度：追求变化、简洁、可持续；最后四个是敏捷生活的行为：关注优秀事物、定期反思、面对面交流、可见实物。
 
-Mnemonics: The first three are the principles of agile living style; the middle three are the attitudes of agile living style: pursuing change, simplicity, and sustainability; and the last three are the behaviors of agile living style: paying attention to excellent things, regular reflection, and face-to-face communication.
+Mnemonics: The first three are the principles of agile living style; the middle three are the attitudes of agile living style: pursuing change, simplicity, and sustainability; and the last four are the behaviors of agile living style: paying attention to excellent things, regular reflection, face-to-face communication, and visible progress.
 
 1. 我们最高的目标，是持续不断地尽早做有价值的事。
 
@@ -41,6 +41,10 @@ Mnemonics: The first three are the principles of agile living style; the middle 
 9. 不论何时，面对面的交谈是最富有效果和效率的信息传递方式。
 
    The most efficient and effective method of conveying information is face-to-face conversation.
+
+10. 可见的实物是进度的首要度量标准。
+
+   Visible Objects are the primary measure of progress.
 
 保持敏捷生活的重点在于使得自己每一个决策都是基于敏捷的价值和原则的。
 
