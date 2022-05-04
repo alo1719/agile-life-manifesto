@@ -44,7 +44,7 @@ Mnemonics: The first three are the principles of agile living style; the middle 
 
 10. 可见的实物是进度的首要度量标准。
 
-   Visible Objects are the primary measure of progress.
+    Visible Objects are the primary measure of progress.
 
 保持敏捷生活的重点在于使得自己每一个决策都是基于敏捷的价值和原则的。
 
