@@ -2,25 +2,25 @@
 
 ## Manifesto for Agile Living Style
 
-记忆法：前三个是敏捷生活的原则；中间三个是敏捷生活的态度：追求变化、简洁、可持续；最后四个是敏捷生活的行为：关注优秀事物、定期反思、面对面交流、可见实物。
+记忆法：前三个是敏捷生活的原则；中间三个是敏捷生活的态度：适应变化、简洁、可持续；最后三个是敏捷生活的行为：关注优秀事物、定期反思、面对面交流；最后一个是对宣言的升华，不再仅仅局限于个人。
 
-Mnemonics: The first three are the principles of agile living style; the middle three are the attitudes of agile living style: pursuing change, simplicity, and sustainability; and the last four are the behaviors of agile living style: paying attention to excellent things, regular reflection, face-to-face communication, and visible progress.
+Mnemonics: The first three are the principles of agile living style; the middle three are the attitudes of agile living style: adapting changes, simplicity, and sustainability; and the last three are the behaviors of agile living style: paying attention to excellent things, regular reflection, face-to-face communication; and the last one is the elevation of the manifesto, which is no longer limited to individuals.
 
-1. 我们最高的目标，是持续不断地尽早做有价值的事。
+1. 我们最高的目标，是持续不断地尽快地做有价值的事。
 
    Our highest priority is continuously doing valuable things as soon as possible.
 
-2. 激发自己的斗志，给自己创造需要的环境，并信任自己，从而达成目标。
+2. 激发自己的斗志，给自己创造需要的环境，相信自己和所干的事的价值，从而达成目标。
 
-   Make ourselves motivated, give ourselves environment we need, and trust ourselves to achieve goals.
+   Make ourselves motivated, give ourselves environment we need, and believe in the value of what we do and ourselves, so that we can achieve our goals.
 
-3. 敏捷不是没有计划的即兴表演，而是相比于遵循计划更注重适应变化。敏捷的计划会为可预见的变化预留空间。
+3. 以终为始，但相比于遵循计划更侧重于适应变化。
 
-   Agile is not improvisation without a plan, but rather a greater emphasis on adapting to changes than following a plan. An agile plan leaves room for foreseeable changes.
+   Start with the end in mind, but focus more on adapting to changes than following a plan.
 
-4. 欣然面对生活中或好或坏的变化，即使在低谷期也一样。当生活中缺乏变化时要主动追求变化。
+4. 积极面对生活中或好或坏的变化，即使在低谷期也一样。毕竟，影响我们生活的更多的是顺利的而不是那些出问题的地方。
 
-   Welcome changes in life, even when we are under bad mood. No matter whether changes are "good" or not. Positively pursuing changes when lacking of them.
+   Positively face changes in life, even when we are under bad mood. No matter whether changes are "good" or not because it's the smooth part that affects our life more than the part that doesn't work.
 
 5. 以简洁为本，它是极力减少不必要工作的艺术。
 
@@ -34,22 +34,18 @@ Mnemonics: The first three are the principles of agile living style; the middle 
 
    Continuous attention to excellent individuals and techniques enhances agility.
 
-8. 经常性地反思如何能够优化生活，并依此调整自身的行为习惯。相隔几星期或一两个月，倾向于采取较短的周期。
+8. 经常性地反思如何能够优化生活，并依此调整自身的行为习惯。
 
-   Reflect on how to better life frequently and adjust habits accordingly from a couple of weeks to several months, with a preference to a shorter timescale.
+   Reflect on how to better life frequently and adjust habits accordingly.
 
-9. 不论何时，面对面的交谈是最富有效果和效率的信息传递方式。
+9. 面对面的交谈是最富有效果和效率的信息传递方式，也更有利于构建人际关系。
 
-   The most efficient and effective method of conveying information is face-to-face conversation.
+   The most efficient and effective method of conveying information is face-to-face conversation, which is also more conducive to building relationships.
 
-10. 可见的实物是进度的首要度量标准。
+10. 无论何时，记住自己是被爱的。爱那些同样爱自己的人。
 
-    Visible Objects are the primary measure of progress.
+    Remember that you are loved. Love those who love you.
 
 保持敏捷生活的重点在于使得自己每一个决策都是基于敏捷的价值和原则的。
 
 The key idea of living agilely is to make each decision based on the principles and values described above.
-
-最佳实践：当难以判断、或没有足够时间判断一件事是否符合敏捷原则时，想象 40 岁时的自己（或 20 年后的自己）会不会为做了或没做这件事感到后悔。这条简单的原则能够快速地判断一件事的价值。
-
-Best practice: When difficult or having no enough time to judge whether something is in the line with agile principles, imagine yourself at the age of 40 (or 20 years from now) whether you regret doing or not doing it. This simple practice is a quick way to determine the value of something.
