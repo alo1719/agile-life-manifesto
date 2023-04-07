@@ -10,9 +10,9 @@ Mnemonics: The first three are the principles of agile living style; the middle 
 
    Our highest priority is continuously doing valuable things as soon as possible.
 
-2. 激发自己的斗志，给自己创造需要的环境，相信自己和所干的事的价值，从而达成目标。
+2. 激发自己的斗志，给自己创造需要的环境，相信自己和所干的事的价值。
 
-   Make ourselves motivated, give ourselves environment we need, and believe in the value of what we do and ourselves, so that we can achieve our goals.
+   Make ourselves motivated, give ourselves environment we need, and believe in the value of what we do and ourselves.
 
 3. 以终为始，但相比于遵循计划更侧重于适应变化。
 
